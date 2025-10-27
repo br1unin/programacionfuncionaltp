@@ -1,3 +1,5 @@
+Los ejercicios se encuentran ubicados en la carpeta src y al ejectuarse hacen lo siguiente:
+
 Ejercicio 1, Se ejecuta corriendo la clase "Ejercicio1" lo que hace es:
 1.Obtener los nombres de los alumnos aprobados (nota ≥ 7) en mayúsculas y
 ordenados.
@@ -27,3 +29,4 @@ por salario descendente.
 3. Agrupar los empleados por departamento y calcular la suma de salarios de
 cada uno.
 4. Obtener los nombres de los 2 empleados más jóvenes
+
